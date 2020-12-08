@@ -62,7 +62,7 @@ The notebook can be run several ways.
 #### Click on "Kernal" tab
 #### Restart & Run All
 
-![Image]( \\run_notebook_1.png) 
+![Image]( /run_notebook_1.png) 
 
 #### New Window appears
 #### Click on "Restart and Run All Cells" Button
@@ -71,7 +71,7 @@ The notebook can be run several ways.
 * Second way
 #### Select a cell with written code
 
-![Image]( \\run_notebook_2.png)
+![Image]( /run_notebook_2.png)
 
 #### use keyboard keys "Shift + Enter"
 the cell will run
