@@ -5,6 +5,7 @@
 * Task 2 Python Function Diceroll
 * Task 3 Flipping a Coin
 * Task 4 Simpson’s Paradox
+***
 
 ## Task 1 Python Function Count
 >A Python function called counts that takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values.
@@ -19,6 +20,7 @@ The code contains two code cells in a Jupyter Notebook.
 [3] : https://www.geeksforgeeks.org/python-count-occurrences-element-list/
 
 [4] : A Whirlwind Tour of Python by Jake VanderPlas
+***
 
 ## Task 2 Python Function Diceroll
 >The “dicerolls” function simulates the rolling of dices. The function takes two parameters. Parameter “k” is for the amount of dices and the parameter “n” is for the amount of trails. The “dicerolls” function simulate randomly rolling “k” dice “n” times and keeping track of each total face value. The function should return a dictionary with the number of times each possible total face value occurred. Calling the function as diceroll(k=2, n=1000) should return a dictionary like: {2:19,3:50,4:82,5:112,6:135,7:174,8:133,9:114,10:75,11:70,12:36}
@@ -33,6 +35,7 @@ The code contains two code cells in a Jupyter Notebook.
 [4] :  https://www.geeksforgeeks.org/python-count-occurrences-element-list/
 
 [5] :  A Whirlwind Tour of Python by Jake VanderPlas
+***
 
 ## Task 3 Flipping a Coin
 >The Python code below simulates a flipping coin 100 or 1000 times. The amount of simulation can be changed in the variable “totaltrails” at the beginning of the python code. The python code keeps track on each coin head per simulation. The result of the simulation will be plotted in a bar plot.
@@ -47,11 +50,19 @@ The code contains two code cells in a Jupyter Notebook.
 [4] :  https://numpy.org/doc/stable/reference/generated/numpy.equal.html
 
 [5] :  https://www.geeksforgeeks.org/numpy-equal-python/
+***
 
 ## Task 4 Simpson’s Paradox
 >Use Python numpy package to create four data sets. Each data set should contain an x array and a corresponding y array, to demonstrate the Simpson's paradox.
 
 ### References
+[1] :  https://en.wikipedia.org/wiki/Simpson%27s_paradox
+
+[2] : https://stackoverflow.com/questions/51424453/adding-list-with-different-length-as-a-new-column-to-a-dataframe
+
+[3] : https://datatofish.com/sum-columns-rows-dataframe/
+
+[4] : https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
 
 ***
 
